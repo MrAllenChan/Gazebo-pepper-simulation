@@ -4,10 +4,10 @@
 * Updated: 2018-07-30
 
 Related websites and tutorials:
-[Gzweb installation](http://gazebosim.org/tutorials?tut=gzweb_install&cat=gzweb#Running)
-[Gzweb: Web client for Gazebo](http://gazebosim.org/gzweb#install-collapse-2)
-[Websocket and HTTP](https://www.cnblogs.com/fuqiang88/p/5956363.html)
-[WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
+* [Gzweb installation](http://gazebosim.org/tutorials?tut=gzweb_install&cat=gzweb#Running)
+* [Gzweb: Web client for Gazebo](http://gazebosim.org/gzweb#install-collapse-2)
+* [Websocket and HTTP](https://www.cnblogs.com/fuqiang88/p/5956363.html)
+* [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
 
 ## Running GzWeb involves the following pieces:
 
